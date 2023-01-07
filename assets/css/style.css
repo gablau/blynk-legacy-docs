@@ -1033,7 +1033,7 @@ code .comment {
   padding: 10px;
 }
 .content h2.banner-header {
-  top: 80px;
+  /* top: 80px; */
   z-index: 2;
   margin-top: 20px;
   border-top: 1px solid #ED9D00;
@@ -1042,7 +1042,7 @@ code .comment {
   padding: 10px;
 }
 .content p.banner {
-  top: 130px;
+  /* top: 130px; */
   z-index: 1;
   margin-top: 0;
   font-weight: bold;
