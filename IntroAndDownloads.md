@@ -12,7 +12,7 @@
 If you want to continue with using unsupported verion of Blynk, check out Getting Started.
 <br>
 
-[Getting Started >](/#getting-started)
+[Getting Started >](#getting-started)
 
 ##How Blynk Works
 Blynk was designed for the Internet of Things. It can control hardware remotely, it can display sensor data, 
@@ -23,7 +23,7 @@ There are three major components in the platform:
 - **Blynk App** - allows to you create amazing interfaces for your projects using various widgets we provide.
 
 - **Blynk Server** - responsible for all the communications between the smartphone and hardware. 
-You can use our Blynk Cloud or run your [private Blynk server](/#blynk-server) locally.
+You can use our Blynk Cloud or run your [private Blynk server](#blynk-server) locally.
 It's open-source, could easily handle thousands of devices and can even be launched on a Raspberry Pi.
 
 - **Blynk Libraries** - for all the popular hardware platforms - enable communication with the server and 
@@ -65,7 +65,7 @@ An Arduino, Raspberry Pi, or a similar development kit.
 This means that the hardware you choose should be able to connect to the internet. Some of the boards, like Arduino Uno 
 will need an Ethernet or Wi-Fi Shield to communicate, others are already Internet-enabled: like the ESP8266, Raspberri Pi with WiFi dongle, Particle Photon or SparkFun Blynk Board. But even if you don't have a shield, you can connect it over USB to your 
 laptop or desktop (it's a bit more complicated for newbies, but we got you covered). 
-What's cool, is that the [list of hardware](/#supported-hardware) that works with Blynk is huge and will keep on growing.
+What's cool, is that the [list of hardware](#supported-hardware) that works with Blynk is huge and will keep on growing.
   
 ####**2. A Smartphone**. 
 The Blynk App is a well designed interface builder. It works on both iOS and Android, so no holywars here, ok? 

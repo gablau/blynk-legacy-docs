@@ -31,7 +31,7 @@ This is one of the main parameters you need to set. It defines which pin to cont
 **Analog Pins** - represent physical Analog IO pins on your hardware
 
 **Virtual Pins** - have no physical representation. They are used to transfer any data between Blynk App and your hardware.
-Read more about Virtual Pins [here](/#blynk-main-operations-virtual-pins).
+Read more about Virtual Pins [here](#blynk-main-operations-virtual-pins).
 
 ### Data Mapping
 
