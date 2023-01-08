@@ -3,13 +3,11 @@
 <h2 class="banner-header">🚨🚨🚨 IMPORTANT:</h2> 
 
 <p class="banner">
-  This documentation is for the LEGACY version of Blynk platform which is no longer supported and will be shut down.<br/>
-  You can sign up for the current version of Blynk platform <a href="http://blynk.cloud/dashboard/register">here</a>.<br/>
-  The new mobile apps can be downloaded from <a href="https://apps.apple.com/us/app/blynk-iot/id1559317868">App Store</a> and <a href="https://play.google.com/store/apps/details?id=cloud.blynk&hl=en&gl=US">Google Play</a>.<br/>
-  The actual Blynk documentation is <a href="https://docs.blynk.io/">here</a>.
+  This documentation is for the LEGACY version of the Blynk platform which is no longer supported and closed as of year end 2022.<br/>
+  The actual Blynk IoT documentation is <a href="https://docs.blynk.io/">here</a>.
 </p>
  
-If you want to continue with using unsupported verion of Blynk, check out Getting Started.
+If you have a local server and would like to continue using the unsupported version of Blynk, please see the Getting Started section.
 <br>
 
 [Getting Started >](#getting-started)
@@ -23,7 +21,7 @@ There are three major components in the platform:
 - **Blynk App** - allows to you create amazing interfaces for your projects using various widgets we provide.
 
 - **Blynk Server** - responsible for all the communications between the smartphone and hardware. 
-You can use our Blynk Cloud or run your [private Blynk server](#blynk-server) locally.
+You can ~~use our Blynk Cloud or~~ run your [private Blynk server](#blynk-server) locally.
 It's open-source, could easily handle thousands of devices and can even be launched on a Raspberry Pi.
 
 - **Blynk Libraries** - for all the popular hardware platforms - enable communication with the server and 

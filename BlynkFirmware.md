@@ -227,7 +227,7 @@ BLYNK_READ_DEFAULT()
 
 ### BLYNK_CONNECTED()
 
-Use this function when you need to run certain routine when hardware connects to Blynk Cloud or private server. It's common to call sync functions inside of this function.
+Use this function when you need to run certain routine when hardware connects to ~~Blynk Cloud or~~ private server. It's common to call sync functions inside of this function.
 
 ```cpp
 BLYNK_CONNECTED() {
@@ -253,7 +253,7 @@ BLYNK_APP_CONNECTED() {
 
 ### BLYNK_APP_DISCONNECTED()
 
-This function is called every time the Blynk app disconnects from Blynk Cloud or private server.
+This function is called every time the Blynk app disconnects from ~~Blynk Cloud or~~ private server.
 
 ```cpp
 BLYNK_APP_DISCONNECTED() {
